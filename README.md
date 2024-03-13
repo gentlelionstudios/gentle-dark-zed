@@ -1,6 +1,6 @@
 # Gentle Dark Theme
 
-A dark theme for [Zed](https://zed.dev/) inspired by the [Gentle Dark UI theme](https://github.com/gentlelionstudios/gentle-dark-ui-atom) for the Atom IDE.
+A dark theme for [Zed](https://zed.dev/) inspired by the [Gentle Dark UI theme](https://github.com/gentlelionstudios/gentle-dark-ui-atom) for the [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)) editor.
 
 - [Screenshots](#screenshots)
 - [Color Reference](#color-reference)
