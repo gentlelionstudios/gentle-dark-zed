@@ -60,6 +60,7 @@
         "success": "#489D8F",
         "success.background": null,
         "success.border": null,
+        "surface.background": "#122330",
         "tab.active_background": "#122330",
         "tab.inactive_background": "#152837",
         "tab_bar.background": "#152837",
