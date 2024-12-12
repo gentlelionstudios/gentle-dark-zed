@@ -1,9 +1,7 @@
 {
   "name": "Gentle Dark Theme",
-  "version": "0.0.2",
-  "authors": [
-    "Brian J. Gamble"
-  ],
+  "version": "0.1.0",
+  "authors": ["Brian J. Gamble"],
   "description": "A dark theme inspired by Gentle Dark UI for the Atom editor",
   "repository": "https://github.com/gentlelionstudios/gentle-dark-zed"
 }
