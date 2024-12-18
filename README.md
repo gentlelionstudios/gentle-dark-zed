@@ -11,7 +11,6 @@ A dark theme for [Zed](https://zed.dev/) inspired by the [Gentle Dark UI theme](
 
 ![editor1](./screenshots/editor.png)
 ![editor2](./screenshots/editor2.png)
-![extensions](./screenshots/extensions.png)
 
 ## Color Reference
 
