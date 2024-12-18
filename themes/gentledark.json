@@ -69,7 +69,7 @@
         "tab_bar.background": "#1C364A",
         "title_bar.background": "#122330",
         "toolbar.background": "#152837",
-        "terminal.background": "#152837",
+        "terminal.background": "#122330",
         "terminal.foreground": "#B5B3AD",
         "terminal.ansi.blue": "#6D8FB7CD",
         "terminal.ansi.bright_blue": "#6D8FB7",
