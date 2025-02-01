@@ -71,6 +71,8 @@
         "toolbar.background": "#152837",
         "terminal.background": "#122330",
         "terminal.foreground": "#B5B3AD",
+        "terminal.ansi.black": "#606C76CD",
+        "terminal.ansi.bright_black": "#606C76",
         "terminal.ansi.blue": "#6D8FB7CD",
         "terminal.ansi.bright_blue": "#6D8FB7",
         "terminal.ansi.cyan": "#A6D0D9CD",
