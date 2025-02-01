@@ -17,6 +17,7 @@
         "deleted": "#AA464C",
         "deleted.background": null,
         "deleted.border": null,
+        "drop_target.background": "#32424C",
         "editor.active_line_number": "#B5B3AD",
         "editor.active_line.background": "#1C364A",
         "editor.background": "#152837",
