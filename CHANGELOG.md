@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 - 2025-02-01
+
+- Set drop_target.background color
+- Make the text.accent color easier to see
+- Set the tag color under syntax
+- Set the color editor.document_highlight.bracket_background
+- Add black terminal colors that are easy to see
+
 ## 0.1.1 - 2024-12-11
 
 - Add extension.toml
