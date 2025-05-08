@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.2.0 - 2025-05-07
+
+### Adjust colors and add missing ones
+
+#### Additions:
+
+- version_control.added
+- version_control.modified
+- version_control.deleted
+
+#### Adjustments:
+
+- created
+- editor.document_highlight.bracket_background
+- editor.highlighted_line.background
+- search.match_background
+- players: selection & background
+
 ## 1.1.0 - 2025-02-01
 
 - Set drop_target.background color
