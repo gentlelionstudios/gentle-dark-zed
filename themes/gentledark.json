@@ -11,7 +11,7 @@
         "border": "#36424C",
         "border.variant": "#36424C",
         "conflict": "#D47D7D",
-        "created": "#4BA495",
+        "created": "#489D8F",
         "created.background": null,
         "created.border": null,
         "deleted": "#AA464C",
@@ -21,10 +21,10 @@
         "editor.active_line_number": "#B5B3AD",
         "editor.active_line.background": "#1C364A",
         "editor.background": "#152837",
-        "editor.document_highlight.bracket_background": "#36424CE5",
+        "editor.document_highlight.bracket_background": "#264862",
         "editor.foreground": "#B5B3AD",
         "editor.gutter.background": "#122330",
-        "editor.highlighted_line.background": null,
+        "editor.highlighted_line.background": "#1C364A",
         "editor.line_number": "#62717D",
         "editor.subheader.background": "#122330",
         "element.background": "#122330",
@@ -56,7 +56,7 @@
         "renamed": null,
         "renamed.background": null,
         "renamed.border": null,
-        "search.match_background": "#37424C",
+        "search.match_background": "#23435D",
         "scrollbar.thumb.hover_background": null,
         "scrollbar.thumb.border": "#36424C",
         "scrollbar.track.background": null,
@@ -97,14 +97,17 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
+        "version_control.added": "#489D8F",
+        "version_control.modified": "#D59E7B",
+        "version_control.deleted": "#AA464C",
         "warning": "#D59E7B",
         "warning.background": "#152837",
         "warning.border": "#D59E7B",
         "players": [
           {
             "cursor": "#B5B3AD",
-            "selection": "#1C364A",
-            "background": "#1C364A"
+            "selection": "#1E394E",
+            "background": "#1E394E"
           }
         ],
         "syntax": {

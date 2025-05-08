@@ -1,7 +1,7 @@
 id = "gentle-dark"
 name = "Gentle Dark Theme"
 description = "A dark theme inspired by Gentle Dark UI for the Atom editor"
-version = "1.1.0"
+version = "1.2.0"
 schema_version = 1
 authors = ["Brian J. Gamble"]
 repository = "https://github.com/gentlelionstudios/gentle-dark-zed"
