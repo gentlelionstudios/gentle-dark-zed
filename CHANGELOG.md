@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.1 - 2025-06-29
+
+Update scrollbar.thumb colors so the Minimap uses the right colors
+- scrollbar.thumb.hover_background
+- scrollbar.thumb.background
+
 ## 1.2.0 - 2025-05-07
 
 ### Adjust colors and add missing ones
