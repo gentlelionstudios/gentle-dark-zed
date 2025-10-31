@@ -22,6 +22,8 @@
         "editor.active_line.background": "#1C364A",
         "editor.background": "#152837",
         "editor.document_highlight.bracket_background": "#264862",
+        "editor.document_highlight.read_background": "#36424C",
+        "editor.document_highlight.write_background": "#62717D",
         "editor.foreground": "#B5B3AD",
         "editor.gutter.background": "#122330",
         "editor.highlighted_line.background": "#1C364A",
