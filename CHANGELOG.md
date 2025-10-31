@@ -1,8 +1,16 @@
 # Changelog
 
+## 1.2.2 - 2025-11-30
+
+Add colors:
+
+- editor.document_highlight.read_background
+- editor.document_highlight.write_background
+
 ## 1.2.1 - 2025-06-29
 
 Update scrollbar.thumb colors so the Minimap uses the right colors
+
 - scrollbar.thumb.hover_background
 - scrollbar.thumb.background
 
